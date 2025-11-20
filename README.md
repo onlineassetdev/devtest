@@ -128,7 +128,7 @@ If you finish early or want to challenge yourself, you can add:
 - **Database interaction**: Clear and understandable database setup with API interaction.
 - **UI/UX design**: Clean, responsive, and accessible design.
 - **Functionality**: Proper CRUD operations, error handling, and state management.
-- **Bonus**: Any additional features or polish will be considered.ign.
+- **Bonus**: Any additional features or polish will be considered
 
 ## Timeline and Points
 You should aim to complete this task within 3 days. However, take the time you need to produce quality code.
